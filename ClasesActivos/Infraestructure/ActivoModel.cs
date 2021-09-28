@@ -49,7 +49,13 @@ namespace ClasesActivos.Infraestructure
             }
             return depreciacion;
         }
-
+        public decimal linearecta(decimal valor,decimal residual,int vidautil)
+        {
+      
+                decimal a = (valor - residual) / vidautil;
+            return a;
+            
+        }
 
     }
 }
