@@ -1,0 +1,6 @@
+C:\Users\JADPA_11\source\repos\Examenes\ClasesActivos\bin\Debug\ClasesActivos.dll
+C:\Users\JADPA_11\source\repos\Examenes\ClasesActivos\bin\Debug\ClasesActivos.pdb
+C:\Users\JADPA_11\source\repos\Examenes\ClasesActivos\obj\Debug\ClasesActivos.csprojAssemblyReference.cache
+C:\Users\JADPA_11\source\repos\Examenes\ClasesActivos\obj\Debug\ClasesActivos.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_11\source\repos\Examenes\ClasesActivos\obj\Debug\ClasesActivos.dll
+C:\Users\JADPA_11\source\repos\Examenes\ClasesActivos\obj\Debug\ClasesActivos.pdb

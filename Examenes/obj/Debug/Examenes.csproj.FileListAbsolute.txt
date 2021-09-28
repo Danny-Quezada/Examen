@@ -1,0 +1,14 @@
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\bin\Debug\Examenes.exe.config
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\bin\Debug\Examenes.exe
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\bin\Debug\Examenes.pdb
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\bin\Debug\ClasesActivos.dll
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\bin\Debug\ClasesActivos.pdb
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\obj\Debug\Examenes.csprojAssemblyReference.cache
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\obj\Debug\Examenes.Form1.resources
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\obj\Debug\Examenes.FrmRegistrar.resources
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\obj\Debug\Examenes.Properties.Resources.resources
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\obj\Debug\Examenes.csproj.GenerateResource.cache
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\obj\Debug\Examenes.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\obj\Debug\Examenes.csproj.CopyComplete
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\obj\Debug\Examenes.exe
+C:\Users\JADPA_11\source\repos\Examenes\Examenes\obj\Debug\Examenes.pdb
